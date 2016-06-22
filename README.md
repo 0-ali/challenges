@@ -25,5 +25,5 @@
  6. Fork then commit in challenger file's (**challenge.php**) with fixed/clean file without encryption (**yours branch**) .
  7. Type solution steps in [**README.md**](https://github.com/xc0d3rz/challenges/php/1s/README.md) of challenge folder. 
 
-# <img src="http://image.flaticon.com/icons/png/512/3/3641.png" width="30" > Credits
+# <img src="http://image.flaticon.com/icons/png/512/3/3641.png" width="25" > Credits
 * ![logo](https://avatars2.githubusercontent.com/u/12600640?v=3&s=25 ) [xC0d3rZ](https://fb.me/xc0d3rz), Web Application challenges creator.
