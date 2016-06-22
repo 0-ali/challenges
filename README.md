@@ -1,7 +1,8 @@
-<img src="https://blog.agilebits.com/wp-content/uploads/2014/01/Treehouse-icon-200x200.png" width="40"> Professionals challenges
----
 
-**For professionals programmers only :wink:.***
+# <img src="https://blog.agilebits.com/wp-content/uploads/2014/01/Treehouse-icon-200x200.png" width="25"> Professionals challenges
+
+
+> **For professionals programmers only :wink:.**
 
 # <img src="http://matrix.com.pk/wp-content/uploads/2014/05/web_development.png" width="30"> Web Application:
 
